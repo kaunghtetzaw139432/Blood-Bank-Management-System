@@ -11,7 +11,7 @@ A robust Desktop Application built with **C# (.NET Framework)** and **SQL Server
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen]!(screenshot/Screenshot 2026-04-09 150602)
+![Login Screen]!(screenshot/Screenshot 2026-04-09 150602.png)
 
 
 ### Main Dashboard
