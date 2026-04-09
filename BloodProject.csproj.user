@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllDonors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletedonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchBloodDonorAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchBloodGroupcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockDecrease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stockdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stockincrease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDonorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

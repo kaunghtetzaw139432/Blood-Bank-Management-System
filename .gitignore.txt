@@ -1,0 +1,15 @@
+
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+
+*.mdf
+*.ldf
