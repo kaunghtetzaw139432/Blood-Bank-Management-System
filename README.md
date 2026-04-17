@@ -1,4 +1,5 @@
 # 🏥 Blood Bank Management System
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Windows Forms](https://img.shields.io/badge/UI-Windows_Forms-blue?style=for-the-badge) ![Blood Bank](https://img.shields.io/badge/Life_Saver-Blood_Bank-red?style=for-the-badge&logo=unicef)
 
 A comprehensive Desktop Application designed for managing blood bank operations efficiently. This system handles donor records, manages blood stock levels, and provides advanced search capabilities. Built with **C# (.NET Framework)** and **Microsoft SQL Server**.
 
