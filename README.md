@@ -30,6 +30,45 @@ The application is structured into several functional modules for a seamless use
 
 ---
 
+## 📸 System Interface Preview
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>🔐 Secure Login Page</b><br><br>
+      <img src="https://github.com/user-attachments/assets/273a735c-57b8-4ef9-883c-e5cfadc880d6" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Login Page">
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>🏠 Admin Dashboard</b><br><br>
+      <img src="https://github.com/user-attachments/assets/95be3434-d038-4a0b-8253-992a5cd5569d" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Dashboard">
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>🩸 Add New Donor</b><br><br>
+      <img src="https://github.com/user-attachments/assets/d88b56d5-7e52-4d0a-8994-dfd288812c1b" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Add Donor">
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>🔍 Search by Address</b><br><br>
+      <img src="https://github.com/user-attachments/assets/c142ce24-8b22-4ade-aef2-6929ac72f6c3" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Search Address">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>📊 Stock Inventory (Increase)</b><br><br>
+      <img src="https://github.com/user-attachments/assets/351a0052-ae99-4fbc-a233-b9e2b332d727" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Stock Management">
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>❌ Delete Records</b><br><br>
+      <img src="https://github.com/user-attachments/assets/b80b9d27-d855-45d6-b9cf-b3c218747502" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Delete Donor">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technical Stack
 * **Language:** C#
 * **Framework:** .NET Framework (Windows Forms)
